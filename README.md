@@ -1,6 +1,6 @@
 # Hi World! 👋
 
-💬 Hi! I am David . A technology enthusiast who loves to explore new technologies and leverage it to solve real-life problems.
+💬 Hi! I am David .A software developer who loves passionate  to explore new technologies and  leverage it to solve real-life problems.
 
 <div align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=davidtrigo&amp;show_icons=true" alt="davidtrigo" align="center" /></div>
 
